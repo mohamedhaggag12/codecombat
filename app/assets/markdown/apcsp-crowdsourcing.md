@@ -52,6 +52,10 @@ Having discussed ways in which various services harness the group to solve probl
 - If people are paid to provide positive but false Amazon or AirBnB reviews, they cannot be trusted, and they are not reliable for deciding what to choose.
 - If people use scripts to automatically give some piece of news or product unwarranted attention on Reddit, the group can be manipulated, or simply not able to affect the type of content they want to see.
 
+It is important to note that while the rapid sharing of technology has been widely helpful in shared collaboration and the interchange of information, it still has some disadvantages beyond the intended purpose or control of the programmer. For instance, in the case of AirBnB, a sabotaging review might cause the property 
+value to severely decline
+
+
 Having generated a list of collaborative projects or services, have students group up and pick some sort of collaboration and research either how it works or one of the challenges it faces, such as any of those listed above. Have each group present to the rest of the class their findings.
 
 ## Zooniverse Activity
