@@ -220,7 +220,10 @@ If student have trouble figuring out an error, ask them to carefully review thei
 ### Summary
 Just like calculators, computers can be used to perform mathematical calculations. In fact, the word computer stems from the act of computing, in a mathematical sense. **Computer arithmetic** is writing code to have a computer perform mathematical operations.
 
-Computers can be used to add, subtract, multiply, and divide numbers. Additionally, they can be used to perform operations on variables representing numbers, and the results of functions that return numbers.
+Computers can be used to add, subtract, multiply, and divide numbers. Additionally, they can be used to perform operations on variables representing numbers, and the results of functions that return numbers. It is important to note that, like calculators, computers apply the order of mathematical operations when evaluating mathematical expressions. 
+
+Here’s the order that you should follow when configuring any mathematical expression:  Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right).
+
 
 Computer arithmetic is used in these levels to allow the students to dynamically calculate the magic numbers needed to get past a series of wizards. Students will have to edit and run their programs a number of times to get the instructions from each wizard and compute each of the magic numbers.
 
